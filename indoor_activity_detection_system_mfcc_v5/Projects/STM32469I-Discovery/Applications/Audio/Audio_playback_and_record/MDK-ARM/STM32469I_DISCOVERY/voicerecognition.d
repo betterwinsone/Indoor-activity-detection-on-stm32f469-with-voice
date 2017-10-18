@@ -1,0 +1,10 @@
+stm32469i_discovery\voicerecognition.o: ..\Src\VoiceRecognition.c
+stm32469i_discovery\voicerecognition.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+stm32469i_discovery\voicerecognition.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+stm32469i_discovery\voicerecognition.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+stm32469i_discovery\voicerecognition.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\float.h
+stm32469i_discovery\voicerecognition.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+stm32469i_discovery\voicerecognition.o: ..\Inc\VoiceRecognition.h
+stm32469i_discovery\voicerecognition.o: ..\Inc\MFCC.h
+stm32469i_discovery\voicerecognition.o: ..\Inc\AudioData.h
+stm32469i_discovery\voicerecognition.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
